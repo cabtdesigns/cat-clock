@@ -1,2 +1,2 @@
-# cat-clock
-clock that changes images of cats depending on what time it is
+# tip calculator
+calculator that helps you figure out the tip of a meal
