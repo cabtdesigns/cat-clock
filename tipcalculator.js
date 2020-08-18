@@ -12,7 +12,7 @@ function calculateTip() {
  //check to see if this input is empty or less than or equl to 1
  if (numOfPeople === "" || numOfPeople <= 1) {
    numOfPeople = 1;
-   document.getElementbyId("each").style.display = "none";
+   document.getElementById("each").style.display = "none";
  } else {
    document.getElementById("each").style.display = "block";
  }
